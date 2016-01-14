@@ -12,5 +12,6 @@ Nah, source code ini adalah contoh implementasi Algoritma CIH menggunakan Borlan
 ![alt tag](https://github.com/hangga/CIH/blob/master/doc/cih_real.jpg)
 
 # Requirement
-* IDE : Borland Delphi 7
-* Component : Nice Grid, silahkan download dan kunjungi website Master Priyatna http://priyatna.org/nicegrid.php
+* IDE       : *Borland Delphi 7*
+* Database  : Firebird
+* Component : *Nice Grid*, silahkan download dan kunjungi website Master Priyatna http://priyatna.org/nicegrid.php
