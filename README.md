@@ -9,7 +9,7 @@ This repository has been cited in the following publication:
   - Journal: International Journal of Geoinformatics and Remote Sensing (IJGOR)
   - Published by: Department of Mathematics, Universitas Islam Bandung, Bandung, Indonesia
   - Publication Date: 2022-05-05
-  - [Read the paper here](https://www.iorajournal.org/index.php/ijgor/article/view/137#:~:text=https%3A//github.com/hangga/CIH)
+  - [Read the paper here](https://www.iorajournal.org/index.php/ijgor/article/view/137#)
 
 We appreciate the recognition and are glad to contribute to the academic community.
 
