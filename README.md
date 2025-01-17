@@ -29,3 +29,6 @@ This source code is an example of implementing the CIH algorithm using Borland D
 * IDE       : *Borland Delphi 7*
 * Database  : Firebird
 * Component : *Nice Grid*, silahkan download di websitenya pak Priyatna http://priyatna.org/nicegrid.php
+
+# Update
+I recently recoded this project with javascript. You can see it <a href="https://github.com/hangga/cih-js">here</a>.
