@@ -31,4 +31,4 @@ This source code is an example of implementing the CIH algorithm using Borland D
 * Component : *Nice Grid*, silahkan download di websitenya pak Priyatna http://priyatna.org/nicegrid.php
 
 # Update
-I recently recoded this project with javascript. You can see it <a href="https://github.com/hangga/cih-js">here</a>.
+I recently recoded this project with JavaScript. You can see it <a href="https://github.com/hangga/cih-js">here 🚀</a> .
